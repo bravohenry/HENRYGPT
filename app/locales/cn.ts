@@ -4,7 +4,16 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      
+      `**欢迎使用 🤖 Bravo Chat Pro ✨** 
+    **感谢你的升级！我是你的私人聊天助手！**
+    **由 OpenAI 官方 GPT4 技术驱动**
+    **点击左下角[设置](/#/settings)按钮输入密码后解锁使用**
+    ✨请添加我们的微信，加入我们的售后群
+    ✨以获取访问密码、GPT4 访问权限
+    ✨第一时间的内容更新和专业的售后支持
+    ✨售后客服微信：_bravo_henry_
+    🥰有什么问题？我全都会喔！尽管问我吧～`,
   },
   Auth: {
     Title: "需要密码",
@@ -177,7 +186,7 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
+      SubTitle: "仅限2台设备同时登陆",
       Placeholder: "请输入访问密码",
     },
     Endpoint: {
@@ -200,7 +209,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "**你的密码验证成功！** 有什么我可以帮助你的吗😇",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
