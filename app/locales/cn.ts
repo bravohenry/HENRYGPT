@@ -5,9 +5,9 @@ const cn = {
   Error: {
     Unauthorized:
       
-      `**欢迎使用 🤖 Bravo Chat Pro ✨** 
+      `**欢迎使用 🤖 Bravo Chat ✨** 
     **感谢你的升级！我是你的私人聊天助手！**
-    **由 OpenAI 官方 GPT4 技术驱动**
+    **由 OpenAI 官方技术驱动**
     **点击左下角[设置](/#/settings)按钮输入密码后解锁使用**
     ✨请添加我们的微信，加入我们的售后群
     ✨以获取访问密码、GPT4 访问权限
